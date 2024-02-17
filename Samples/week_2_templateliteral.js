@@ -9,12 +9,12 @@ let output = "Welcome to " + courseSubject + " " + courseNumber + "!Credits: " +
 console.log(output)
 console.log("")
 
-//OR
+//OR--------------------------------------------------------------
 let outp = `Welcome to ${courseSubject} ${courseNumber}!Credits: ${courseCredits}Length: ${courseLength}`;
 console.log(outp)
 console.log("")
 
-
+//-------------------------------------------------------------
 
 console.log("MULTI SINGLE STRINGS")
 console.log("string text line 1\n" + "string text line 2");
@@ -27,6 +27,8 @@ console.log(`string text line 1
 string text line 2`);
 // "string text line 1
 // string text line 2"
+
+//-------------------------------------------------------------
 
 console.log("")
 console.log("STRING INTERPOLATIION")
@@ -111,7 +113,7 @@ console.log("STARTS ")
 
 
 
-///ANSWER TASK 2
+///ANSWER TASK 2--------------------------------------------------------------
 
 let temples = ["Rome", "Salt Lake", "Nauvoo"];
 let listItems = "";

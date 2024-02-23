@@ -1,5 +1,3 @@
-/// scripts/project.js
-
 function convert() {
     // Get input value and units
     var inputValue = parseFloat(document.getElementById("inputValue").value);
